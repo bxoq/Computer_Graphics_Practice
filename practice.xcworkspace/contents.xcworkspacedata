@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "container:src/dependency">
+   </FileRef>
+   <FileRef
+      location = "container:src/Makefile">
+   </FileRef>
+   <FileRef
+      location = "container:src/predef.h">
+   </FileRef>
+   <FileRef
+      location = "container:src/line.h">
+   </FileRef>
+   <FileRef
+      location = "container:src/ex1.cpp">
+   </FileRef>
+   <FileRef
+      location = "container:src/ex2.cpp">
+   </FileRef>
+   <FileRef
+      location = "container:src/ex3.cpp">
+   </FileRef>
+   <FileRef
+      location = "container:src/ex5.cpp">
+   </FileRef>
+   <FileRef
+      location = "container:src/line.cpp">
+   </FileRef>
+   <FileRef
+      location = "container:src/line2.cpp">
+   </FileRef>
+   <FileRef
+      location = "container:src/lines.cpp">
+   </FileRef>
+   <FileRef
+      location = "container:src/lineList.cpp">
+   </FileRef>
+   <FileRef
+      location = "container:src/sine.cpp">
+   </FileRef>
+   <FileRef
+      location = "container:src/sine2.cpp">
+   </FileRef>
+</Workspace>
